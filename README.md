@@ -26,7 +26,7 @@ The project is actively evolving and new features are being added continuously.
 License
 All Rights Reserved  
 This project is closed‑source.  
-Only the APK is provided for testing purposes.
+Only the APK is provided
 
 ---------------------------------
 
