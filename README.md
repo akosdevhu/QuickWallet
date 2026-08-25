@@ -31,6 +31,6 @@ Only the APK is provided
 ---------------------------------
 
 Contact
-Developer: akosdevhu
 
+Developer: akosdevhu 
 Instagram: coming soon
