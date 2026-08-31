@@ -64,4 +64,4 @@ Contact
 
 Developer: akosdevhu
 
-Instagram: coming soon
+Instagram: @akosdevhu
