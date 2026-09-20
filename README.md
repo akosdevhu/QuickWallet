@@ -1,67 +1,96 @@
-# 📱 QuickWallet
+# QuickWallet
 
-**QuickWallet** is a lightning-fast, offline, and secure Android application designed to digitally store and organize your loyalty cards, coupons, barcodes, and QR codes.
+A fast, clean, privacy-friendly wallet app for your loyalty and membership cards. Scan a barcode or QR code once, and never dig through your physical card stack at checkout again.
 
-Say goodbye to heavy plastic cards weighting down your physical wallet! With QuickWallet, all your loyalty cards are immediately accessible in one sleek and clean interface.
-
----
-
-## ✨ Key Features
-
-- **Instant Scanning:** Scan your physical cards using your device's camera, or import any barcode directly from a screenshot or image file.
-- **Native Vector Rendering:** The application does not store blurry photos. Instead, it natively regenerates pixel-perfect barcodes (EAN-13, EAN-8, CODE-128, CODE-39, etc.) and QR codes to guarantee they can be scanned at any checkout counter.
-- **App Linking (Smart Link):** Link an external application (e.g., Lidl, Tesco, SPAR) to your card and launch the official app with a single swipe directly from the back of the card.
-- **Biometric Protection:** Keep your data secure by forcing fingerprint authentication or facial recognition (with PIN-code fallback) every time the app opens.
-- **Backup & Restore:** Export all your cards into a single JSON file to your device or cloud storage, and restore them anytime you switch devices.
-- **Themes & Styling:** Full dark mode support and an energy-saving, deep-black theme optimized for **AMOLED** displays.
+Built with **Expo** / **React Native**.
 
 ---
 
-## 🔒 Security & Privacy (Closed-Source)
+## ✨ Features
 
-QuickWallet is a **closed-source project** built with absolute user privacy in mind.
+### Card management
+- **Add cards** by scanning a barcode or QR code with the camera, importing an image from your gallery, or entering the code manually.
+- **Wide format support**: EAN-13, EAN-8, CODE128, CODE39, UPC-A, UPC-E, PDF417, Aztec, and QR codes.
+- **Custom colors** for each card, so your wallet stays easy to scan visually.
+- **Favorites** — pin the cards you use most.
+- **Search** — instantly filter your cards by name.
+- **Drag & drop reordering** — long-press a card to flip it into reorder mode, then drag it into place. Cards animate out of the way with a smooth, staggered ripple effect based on their distance from the card you grabbed.
 
-- **100% Offline Operation:** The application does not use external databases or transmit your card data to remote servers. All your information remains stored locally on your device in a secure, isolated storage configuration (`AsyncStorage`).
-- **Zero Tracking:** The app contains no analytics software, third-party trackers, or advertisements.
-- **Minimal Permissions:** The app only requests access to native features that are strictly necessary for its core functionalities (Camera for scanning barcodes, Biometrics for secure lock screen).
+### Everyday use
+- **Tap to focus** — tap any card to bring it front and center with a dimmed background for easy scanning at the register. Swipe it away to dismiss.
+- **Automatic brightness boost** while a card is open, so barcode/QR scanners can read it more reliably (on by default, can be turned off in Settings).
+- **Swipe actions** — swipe a card left to delete or right to link it to an app, each independently toggleable in Settings. When a direction is disabled, that swipe gesture is fully disabled too — no accidental drags.
+- **Link an app to a card** — attach any installed app to a card (e.g. a store's own app) and jump straight into it from your wallet.
 
----
+### Look & feel
+- **Light / Dark / System** theme, plus a true-black **AMOLED** mode for extra battery savings.
+- Smooth, physics-based animations throughout — card focus, reordering, swipe gestures, and sheet transitions all feel native rather than abrupt.
 
-## 📥 Installation & Updates
+### Security & data
+- **Biometric lock** (Face ID / fingerprint) on app launch.
+- **Backup & restore** — download a backup file, share it, or import one to restore your cards and settings on another device.
+- All data is stored locally on your device — nothing is uploaded anywhere.
 
-Since this application is closed-source and distributed outside the official Google Play Store, you can always download the latest authentic build directly from this GitHub page.
-
-### First-Time Installation:
-1. Navigate to the **[Releases](https://github.com)** section on the right side of this repository.
-2. Download the latest available **`.apk`** file (e.g., `QuickWallet_v0.5.0.apk`).
-3. Open the downloaded file on your device and enable *"Install from Unknown Sources"* if your system prompts you.
-4. If Google Play Protect displays a warning banner, click on **More details** and select **Install anyway**.
-
-### Automatic Updates:
-The application features a built-in **GitHub Releases API** client. On startup, it silently checks for new releases on this repository. If a newer version is available, it prompts you inside the app to download and install the update immediately.
-
----
-
-## 🛠 Tech Stack
-
-The application is built using a modern mobile development workflow:
-- **Framework:** React Native & Expo SDK (EAS Build Workflow)
-- **Core Packages:** Expo Camera, Expo Local Authentication, React Native SVG
-- **Icons & Visual Anchors:** Lucide React Native Icons
+### Convenience
+- **Update checks** — QuickWallet can automatically check for new releases on launch (toggleable), or you can check manually from Settings.
+- **Multi-language** — available in **Hungarian** and **English**.
 
 ---
 
-© 2026 akosdevhu. All rights reserved.
+## 📸 Screenshots
 
-License
-All Rights Reserved  
-This project is closed‑source.  
-Only the APK is provided
+<p align="center">
+  <img src="screenshots/home.jpg" width="230" alt="Stacked card wallet view" />
+  <img src="screenshots/expanded.jpg" width="230" alt="Expanded view with all barcodes visible" />
+  <img src="screenshots/active-card.jpg" width="230" alt="A focused, active card ready to scan" />
+</p>
 
----------------------------------
+---
 
-Contact
+## 📲 Download
 
-Developer: akosdevhu
+QuickWallet is distributed as an APK via **[GitHub Releases](https://github.com/akosdevhu/QuickWallet/releases)** — this repository does not include the source code, only the compiled app.
 
-Instagram: @akosdevhu
+### ⚠️ About the Google Play Protect warning
+
+Because the app isn't published on the Play Store, **Google Play Protect may show a warning** (e.g. *"Unsafe app blocked"* or *"App wasn't scanned for harmful behavior"*) when you try to install it. This is expected and not a sign that anything is wrong — it simply means the app hasn't gone through Google's Play Store review process, which only applies to apps installed from outside the Store.
+
+**How to install anyway:**
+
+1. When the warning appears, tap **"More details"** (or the ⓘ icon).
+2. Tap **"Install anyway"** (or **"Install without scanning"**).
+3. If Play Protect blocks the install entirely before you even see that option:
+   - Open the **Play Store** app → tap your profile icon → **Play Protect** → ⚙️ **Settings**.
+   - Turn off **"Scan apps with Play Protect"** temporarily, install the APK, then turn it back on if you'd like.
+4. Only download the APK from the official [Releases page](https://github.com/akosdevhu/QuickWallet/releases) of this repository — never from a third-party mirror.
+
+---
+
+## 🛠️ Tech Stack
+
+- [Expo](https://expo.dev) / React Native
+- `expo-camera` — barcode/QR scanning
+- `expo-local-authentication` — biometric app lock
+- `expo-brightness` — automatic brightness boost
+- `expo-document-picker`, `expo-application`, `expo-system-ui`
+- `react-native-barcode-svg` — barcode rendering
+- `@react-native-async-storage/async-storage` — local persistence
+- `lucide-react-native` — icons
+
+---
+
+## 🤝 Contact & Links
+
+Made by **akosdevhu**.
+
+- 🐙 GitHub: [github.com/akosdevhu](https://github.com/akosdevhu)
+- 📸 Instagram: [instagram.com/akosdevhu](https://www.instagram.com/akosdevhu/)
+- ✉️ Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
+
+Feedback, bug reports, and feature suggestions are always welcome — feel free to open an issue or reach out directly.
+
+---
+
+## 📄 License
+
+No license has been specified for this project yet. All rights reserved unless a license file is added.
