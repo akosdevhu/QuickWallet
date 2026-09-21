@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="200" style="border-radius: 20%;" alt="QuickWallet Logo" />
+  <img src="screenshots/logo.png" width="200" style="border-radius: 20%;" alt="QuickWallet Logo" /><br />
+  <b class="notranslate" translate="no" style="font-size: 2.2em; display: block; margin-top: -5px; line-height: 1.1;">QuickWallet</b>
 </p>
-
-<h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
 
 <p align="center">A fast, clean, privacy-friendly wallet app for your loyalty and membership cards. Scan a barcode or QR code once, and never dig through your physical card stack at checkout again.</p>
 
-<p align="center">Built with <b>Expo</b> / <b>React Native</b>.</p>
+<p align="center">Built with **Expo** / **React Native**.</p>
 
 ---
 
@@ -87,8 +86,8 @@ Because the app isn't published on the Play Store, **Google Play Protect may sho
 
 Made by **akosdevhu**.
 
-- 🐙 GitHub: [github.com](https://github.com/akosdevhu)
-- 📸 Instagram: [instagram.com](https://www.instagram.com/akosdevhu)
+- 🐙 GitHub: [github.com](https://github.com)
+- 📸 Instagram: [instagram.com](https://instagram.com)
 - ✉️ Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
 
 Feedback, bug reports, and feature suggestions are always welcome — feel free to open an issue or reach out directly.
