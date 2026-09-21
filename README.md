@@ -98,19 +98,3 @@ Feedback, bug reports, and feature suggestions are always welcome — feel free 
 ## 📄 License
 
 No license has been specified for this project yet. All rights reserved unless a license file is added.
-
-<br />
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr bgcolor="#CE2937">
-    <td align="center" height="25" style="border: none;"></td>
-  </tr>
-  <tr bgcolor="#FFFFFF">
-    <td align="center" height="30" style="color: #333333; font-family: sans-serif; font-weight: bold; font-size: 1.1em; border: none; padding: 5px 0;">
-      🇭🇺 QuickWallet — Made in Hungary
-    </td>
-  </tr>
-  <tr bgcolor="#47704D">
-    <td align="center" height="25" style="border: none;"></td>
-  </tr>
-</table>
