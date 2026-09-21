@@ -40,9 +40,9 @@ Built with **Expo** / **React Native**.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="230" alt="Stacked card wallet view" />
-  <img src="screenshots/expanded.jpg" width="230" alt="Expanded view with all barcodes visible" />
-  <img src="screenshots/active-card.jpg" width="230" alt="A focused, active card ready to scan" />
+  <img src="screenshots/home.jpg" width="180" alt="Stacked card wallet view" />
+  <img src="screenshots/expanded.jpg" width="180" alt="Expanded view with all barcodes visible" />
+  <img src="screenshots/active-card.jpg" width="180" alt="A focused, active card ready to scan" />
 </p>
 
 ---
