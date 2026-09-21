@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="100" style="border-radius: 20%;" alt="QuickWallet Logo" />
+  <img src="screenshots/logo.png" width="500" style="border-radius: 20%;" alt="QuickWallet Logo" />
 </p>
 # QuickWallet
 
