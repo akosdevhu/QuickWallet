@@ -86,8 +86,8 @@ Because the app isn't published on the Play Store, **Google Play Protect may sho
 
 Made by **akosdevhu**.
 
-- 🐙 GitHub: [://github.com](https://github.com)
-- 📸 Instagram: [://instagram.com](https://www.instagram.com/)
+- 🐙 GitHub: [://github.com](https://github.com/akosdevhu)
+- 📸 Instagram: [://instagram.com](https://www.instagram.com/akosdevhu)
 - ✉️ Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
 
 Feedback, bug reports, and feature suggestions are always welcome — feel free to open an issue or reach out directly.
