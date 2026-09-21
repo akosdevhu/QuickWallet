@@ -98,3 +98,9 @@ Feedback, bug reports, and feature suggestions are always welcome — feel free 
 ## 📄 License
 
 No license has been specified for this project yet. All rights reserved unless a license file is added.
+
+<br />
+
+<p align="center">
+  <img src="https://vercel.app" alt="QuickWallet Hungarian Banner" />
+</p>
