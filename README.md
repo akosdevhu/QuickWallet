@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="200" style="border-radius: 20%;" alt="QuickWallet Logo" /><br />
-  <span class="notranslate" translate="no" style="font-size: 4em; font-weight: 500; display: block; margin-top: 5px;">QuickWallet</span>
+  <img src="screenshots/logo.png" width="200" style="border-radius: 20%;" alt="QuickWallet Logo" />
 </p>
 
-A fast, clean, privacy-friendly wallet app for your loyalty and membership cards. Scan a barcode or QR code once, and never dig through your physical card stack at checkout again.
+<h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
 
-Built with **Expo** / **React Native**.
+<p align="center">A fast, clean, privacy-friendly wallet app for your loyalty and membership cards. Scan a barcode or QR code once, and never dig through your physical card stack at checkout again.</p>
+
+<p align="center">Built with <b>Expo</b> / <b>React Native</b>.</p>
 
 ---
 
