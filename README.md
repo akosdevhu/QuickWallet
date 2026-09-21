@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="250" style="border-radius: 20%;" alt="QuickWallet Logo" />
+  <img src="screenshots/logo.png" width="100" style="border-radius: 20%;" alt="QuickWallet Logo" /><br />
+  <span class="notranslate" translate="no" style="font-size: 2.5em; font-weight: bold; display: block; margin-top: 10px;">QuickWallet</span>
 </p>
-## QuickWallet
 
 A fast, clean, privacy-friendly wallet app for your loyalty and membership cards. Scan a barcode or QR code once, and never dig through your physical card stack at checkout again.
 
@@ -43,16 +43,16 @@ Built with **Expo** / **React Native**.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="180" alt="Stacked card wallet view" />
-  <img src="screenshots/expanded.jpg" width="180" alt="Expanded view with all barcodes visible" />
-  <img src="screenshots/active-card.jpg" width="180" alt="A focused, active card ready to scan" />
+  <img src="screenshots/home.jpg" width="180" style="border-radius: 12px; margin: 0 10px;" alt="Stacked card wallet view" />
+  <img src="screenshots/expanded.jpg" width="180" style="border-radius: 12px; margin: 0 10px;" alt="Expanded view with all barcodes visible" />
+  <img src="screenshots/active-card.jpg" width="180" style="border-radius: 12px; margin: 0 10px;" alt="A focused, active card ready to scan" />
 </p>
 
 ---
 
 ## 📲 Download
 
-QuickWallet is distributed as an APK via **[GitHub Releases](https://github.com/akosdevhu/QuickWallet/releases)** — this repository does not include the source code, only the compiled app.
+QuickWallet is distributed as an APK via **[GitHub Releases](https://github.com)** — this repository does not include the source code, only the compiled app.
 
 ### ⚠️ About the Google Play Protect warning
 
@@ -65,7 +65,7 @@ Because the app isn't published on the Play Store, **Google Play Protect may sho
 3. If Play Protect blocks the install entirely before you even see that option:
    - Open the **Play Store** app → tap your profile icon → **Play Protect** → ⚙️ **Settings**.
    - Turn off **"Scan apps with Play Protect"** temporarily, install the APK, then turn it back on if you'd like.
-4. Only download the APK from the official [Releases page](https://github.com/akosdevhu/QuickWallet/releases) of this repository — never from a third-party mirror.
+4. Only download the APK from the official [Releases page](https://github.com) of this repository — never from a third-party mirror.
 
 ---
 
@@ -86,8 +86,8 @@ Because the app isn't published on the Play Store, **Google Play Protect may sho
 
 Made by **akosdevhu**.
 
-- 🐙 GitHub: [github.com/akosdevhu](https://github.com/akosdevhu)
-- 📸 Instagram: [instagram.com/akosdevhu](https://www.instagram.com/akosdevhu/)
+- 🐙 GitHub: [://github.com](https://://github.com)
+- 📸 Instagram: [://instagram.com](https://www.://instagram.com/)
 - ✉️ Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
 
 Feedback, bug reports, and feature suggestions are always welcome — feel free to open an issue or reach out directly.
