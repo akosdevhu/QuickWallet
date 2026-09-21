@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="screenshots/logo.png" width="100" style="border-radius: 20%;" alt="QuickWallet Logo" />
+</p>
 # QuickWallet
 
 A fast, clean, privacy-friendly wallet app for your loyalty and membership cards. Scan a barcode or QR code once, and never dig through your physical card stack at checkout again.
