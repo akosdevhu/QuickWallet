@@ -96,7 +96,3 @@ Made by **akosdevhu**.
 Feedback, bug reports, and feature suggestions are always welcome — feel free to open an issue or reach out directly.
 
 ---
-
-## 📄 License
-
-No license has been specified for this project yet. All rights reserved unless a license file is added.
