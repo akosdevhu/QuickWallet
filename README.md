@@ -30,15 +30,6 @@
 - **Light / Dark / System** theme, plus a true-black **AMOLED** mode for extra battery savings.
 - Smooth, physics-based animations throughout — card focus, reordering, swipe gestures, and sheet transitions all feel native rather than abrupt.
 
-### Security & data
-- **Biometric lock** (Face ID / fingerprint) on app launch.
-- **Backup & restore** — download a backup file, share it, or import one to restore your cards and settings on another device.
-- All data is stored locally on your device — nothing is uploaded anywhere.
-
-### Convenience
-- **Update checks** — QuickWallet can automatically check for new releases on launch (toggleable), or you can check manually from Settings.
-- **Multi-language** — available in **Hungarian** and **English**.
-
 ---
 
 ## 📸 Screenshots
@@ -48,6 +39,17 @@
   <img src="screenshots/expanded.jpg" width="200" style="border-radius: 12px; margin: 0 10px;" alt="Expanded view with all barcodes visible" />
   <img src="screenshots/active-card.jpg" width="200" style="border-radius: 12px; margin: 0 10px;" alt="A focused, active card ready to scan" />
 </p>
+
+---
+
+### Security & data
+- **Biometric lock** (Face ID / fingerprint) on app launch.
+- **Backup & restore** — download a backup file, share it, or import one to restore your cards and settings on another device.
+- All data is stored locally on your device — nothing is uploaded anywhere.
+
+### Convenience
+- **Update checks** — QuickWallet can automatically check for new releases on launch (toggleable), or you can check manually from Settings.
+- **Multi-language** — available in **Hungarian** and **English**.
 
 ---
 
