@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Card management
 - **Add cards** by scanning a barcode or QR code with the camera or importing an image from your gallery.
@@ -32,7 +32,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/home.jpg" width="200" style="border-radius: 12px; margin: 0 10px;" alt="Stacked card wallet view" />
@@ -53,11 +53,11 @@
 
 ---
 
-## 📲 Download
+## Download
 
 QuickWallet is distributed as an APK via **[GitHub Releases](https://github.com)** — this repository does not include the source code, only the compiled app.
 
-### ⚠️ About the Google Play Protect warning
+### About the Google Play Protect warning
 
 Because the app isn't published on the Play Store, **Google Play Protect may show a warning** (e.g. *"Unsafe app blocked"* or *"App wasn't scanned for harmful behavior"*) when you try to install it. This is expected and not a sign that anything is wrong — it simply means the app hasn't gone through Google's Play Store review process, which only applies to apps installed from outside the Store.
 
@@ -66,13 +66,13 @@ Because the app isn't published on the Play Store, **Google Play Protect may sho
 1. When the warning appears, tap **"More details"** (or the ⓘ icon).
 2. Tap **"Install anyway"** (or **"Install without scanning"**).
 3. If Play Protect blocks the install entirely before you even see that option:
-   - Open the **Play Store** app → tap your profile icon → **Play Protect** → ⚙️ **Settings**.
+   - Open the **Play Store** app → tap your profile icon → **Play Protect** → **Settings**.
    - Turn off **"Scan apps with Play Protect"** temporarily, install the APK, then turn it back on if you'd like.
 4. Only download the APK from the official [Releases page](https://github.com) of this repository — never from a third-party mirror.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [Expo](https://expo.dev) / React Native
 - `expo-camera` — barcode/QR scanning
@@ -85,13 +85,13 @@ Because the app isn't published on the Play Store, **Google Play Protect may sho
 
 ---
 
-## 🤝 Contact & Links
+## Contact & Links
 
 Made by **akosdevhu**.
 
-- 🐙 GitHub: [github.com](https://github.com/akosdevhu)
-- 📸 Instagram: [instagram.com](https://www.instagram.com/akosdevhu)
-- ✉️ Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
+- GitHub: [github.com](https://github.com/akosdevhu)
+- Instagram: [instagram.com](https://www.instagram.com/akosdevhu)
+- Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
 
 Feedback, bug reports, and feature suggestions are always welcome — feel free to open an issue or reach out directly.
 
