@@ -61,15 +61,6 @@ QuickWallet is distributed as an APK via **[GitHub Releases](https://github.com)
 
 Because the app isn't published on the Play Store, **Google Play Protect may show a warning** (e.g. *"Unsafe app blocked"* or *"App wasn't scanned for harmful behavior"*) when you try to install it. This is expected and not a sign that anything is wrong — it simply means the app hasn't gone through Google's Play Store review process, which only applies to apps installed from outside the Store.
 
-**How to install anyway:**
-
-1. When the warning appears, tap **"More details"** (or the ⓘ icon).
-2. Tap **"Install anyway"** (or **"Install without scanning"**).
-3. If Play Protect blocks the install entirely before you even see that option:
-   - Open the **Play Store** app → tap your profile icon → **Play Protect** → **Settings**.
-   - Turn off **"Scan apps with Play Protect"** temporarily, install the APK, then turn it back on if you'd like.
-4. Only download the APK from the official [Releases page](https://github.com) of this repository — never from a third-party mirror.
-
 ---
 
 ## Tech Stack
