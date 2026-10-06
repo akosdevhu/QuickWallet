@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "QuickWallet",
+    "slug": "QuickWallet",
+    "version": "1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "androidStatusBar": {
+      "translucent": true,
+      "backgroundColor": "#00000000"
+    },
+    "androidNavigationBar": {
+      "visible": "immersive",
+      "backgroundColor": "#00000000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "A kamera szükséges a hűségkártyák vonalkódjainak beolvasásához."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.akosdevhu.QuickWallet"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "A kamera szükséges a hűségkártyák vonalkódjainak beolvasásához.",
+          "recordAudioPermission": false
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "A közeli bolt kártyájának előrehozásához használjuk a helyedet."
+        }
+      ],
+      "expo-sharing",
+      "expo-build-properties"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2ab72adc-4369-4225-a5ae-d9fa78d46d81"
+      }
+    }
+  }
+}
