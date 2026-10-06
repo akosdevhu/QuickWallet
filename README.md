@@ -4,7 +4,8 @@
 
 <h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
 
-<p align="center">A fast, clean, privacy-friendly wallet app for your loyalty and membership cards. Scan a barcode or QR code once, and never dig through your physical card stack at checkout again.</p>
+<p align="center">streamlined, offline*, security-focused loyalty card app</p>
+<p align="center">* An internet connection is required when cards are offered based on location.</p>
 
 <p align="center">Built with Expo / React Native.</p>
 
