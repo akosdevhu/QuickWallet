@@ -14,9 +14,9 @@
 
 ---
 
-###  Features
+##  Features
 
-## Card management
+### Card management
 - **Add cards** by scanning a barcode or QR code with the camera or importing an image from your gallery.
 - **Wide format support**: EAN-13, EAN-8, CODE128, CODE39, UPC-A, UPC-E, PDF417, Aztec, and QR codes.
 - **Custom colors** for each card, so your wallet stays easy to scan visually.
@@ -24,7 +24,7 @@
 - **Search** — instantly filter your cards by name.
 - **Drag & drop reordering** — long-press a card to flip it into reorder mode, then drag it into place.
 
-## Everyday use
+### Everyday use
 - **Tap to focus** — tap any card to bring it front and center with a dimmed background for easy scanning at the register.
 - **Automatic brightness boost** while a card is open, so barcode/QR scanners can read it more reliably (on by default, can be turned off in Settings).
 - **Swipe actions** — swipe a card left to delete or right to link it to an app, each independently toggleable in Settings. When a direction is disabled, that swipe gesture is fully disabled too — no accidental drags.
