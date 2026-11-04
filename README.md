@@ -1,11 +1,12 @@
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
   <img src="screenshots/logo.png" width="160" style="border-radius: 20%; vertical-align: middle;" alt="QuickWallet Logo" />
+
+<h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
+
   <a href="https://rookieenough.github.io/Orion-Data/app/?id=quickwallet" style="display: inline-block; vertical-align: middle;">
     <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="55" alt="Get it on Orion Store" />
   </a>
 </p>
-
-<h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
 
 <p align="center">Clean, offline*, security-focused loyalty card app</p>
 <p align="center">* An internet connection is required when cards are offered based on location.</p>
