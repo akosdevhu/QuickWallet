@@ -61,12 +61,6 @@
 
 QuickWallet is distributed as an APK via **[GitHub Releases](https://github.com)** — this repository does not include the source code, only the compiled app.
 
-<p align="center">
-  <a href="https://rookieenough.github.io/Orion-Data/app/?id=quickwallet">
-    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="55" alt="Get it on Orion Store" />
-  </a>
-</p>
-
 ### About the Google Play Protect warning
 
 Because the app isn't published on the Play Store, **Google Play Protect may show a warning** (e.g. *"Unsafe app blocked"* or *"App wasn't scanned for harmful behavior"*) when you try to install it. This is expected and not a sign that anything is wrong — it simply means the app hasn't gone through Google's Play Store review process, which only applies to apps installed from outside the Store.
