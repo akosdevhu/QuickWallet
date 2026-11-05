@@ -83,18 +83,56 @@ This warning may appear because the application is distributed outside the Googl
 
 ## Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| Expo / React Native | Application framework |
-| `expo-camera` | Barcode and QR scanning |
-| `expo-local-authentication` | Biometric authentication |
-| `expo-brightness` | Automatic screen brightness |
-| `expo-document-picker` | File selection |
-| `expo-application` | Application information |
-| `expo-system-ui` | System interface integration |
-| `react-native-barcode-svg` | Barcode rendering |
-| `@react-native-async-storage/async-storage` | Local data persistence |
-| `lucide-react-native` | Interface icons |
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center">Technology</th>
+    <th align="center">Purpose</th>
+  </tr>
+  <tr>
+    <td align="center">Expo / React Native</td>
+    <td align="center">Application framework</td>
+  </tr>
+  <tr>
+    <td align="center"><code>expo-camera</code></td>
+    <td align="center">Barcode and QR scanning</td>
+  </tr>
+  <tr>
+    <td align="center"><code>expo-local-authentication</code></td>
+    <td align="center">Biometric authentication</td>
+  </tr>
+  <tr>
+    <td align="center"><code>expo-brightness</code></td>
+    <td align="center">Automatic screen brightness</td>
+  </tr>
+  <tr>
+    <td align="center"><code>expo-document-picker</code></td>
+    <td align="center">File selection</td>
+  </tr>
+  <tr>
+    <td align="center"><code>expo-application</code></td>
+    <td align="center">Application information</td>
+  </tr>
+  <tr>
+    <td align="center"><code>expo-system-ui</code></td>
+    <td align="center">System interface integration</td>
+  </tr>
+  <tr>
+    <td align="center"><code>react-native-barcode-svg</code></td>
+    <td align="center">Barcode rendering</td>
+  </tr>
+  <tr>
+    <td align="center"><code>@react-native-async-storage/async-storage</code></td>
+    <td align="center">Local data persistence</td>
+  </tr>
+  <tr>
+    <td align="center"><code>lucide-react-native</code></td>
+    <td align="center">Interface icons</td>
+  </tr>
+</table>
+
+</div>
 
 ## Contact
 
