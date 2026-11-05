@@ -6,11 +6,9 @@
   </a>
 </div>
 
-<div align="center">
-
-# QuickWallet
-
-</div>
+<p align="center">
+  <strong><big>QuickWallet</big></strong>
+</p>
 <p align="center">Clean, offline*, security-focused loyalty card app</p>
 <p align="center">* An internet connection is required when cards are offered based on location.</p>
 
