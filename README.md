@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
+<h3 align="center" class="notranslate" translate="no">QuickWallet</h3>
 <p align="center">Clean, offline*, security-focused loyalty card app</p>
 <p align="center">* An internet connection is required when cards are offered based on location.</p>
 
