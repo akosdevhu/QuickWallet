@@ -1,102 +1,108 @@
-<div align="center">
-  <img src="screenshots/logo.png" width="160" style="border-radius: 20%;" alt="QuickWallet Logo" />
+ <div align="center">
+  <img src="screenshots/logo.png" width="150" alt="QuickWallet Logo" />
   <br>
   <a href="https://rookieenough.github.io/Orion-Data/app/?id=quickwallet">
-    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="55" alt="Get it on Orion Store" />
+    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="50" alt="Get it on Orion Store" />
   </a>
 </div>
 
-<div align="center">
-  <h1 style="border-bottom: none !important;">
-    QuickWallet
-  </h1>
-</div>
-<p align="center">Clean, offline*, security-focused loyalty card app</p>
-<p align="center">* An internet connection is required when cards are offered based on location.</p>
+<h1 align="center" style="border-bottom: none;">QuickWallet</h1>
 
-<p align="center">Built with Expo / React Native.</p>
+<p align="center">
+  <strong>A clean, secure home for all your loyalty cards.</strong>
+</p>
 
----
+<p align="center">
+  Offline-first. Private. Simple.
+</p>
 
-##  Features
+<p align="center">
+  Built with Expo / React Native.
+</p>
 
-### Card management
-- **Add cards** by scanning a barcode or QR code with the camera or importing an image from your gallery.
-- **Wide format support**: EAN-13, EAN-8, CODE128, CODE39, UPC-A, UPC-E, PDF417, Aztec, and QR codes.
-- **Custom colors** for each card, so your wallet stays easy to scan visually.
-- **Favorites** — pin the cards you use most.
-- **Search** — instantly filter your cards by name.
-- **Drag & drop reordering** — long-press a card to flip it into reorder mode, then drag it into place.
+## Features
 
-### Everyday use
-- **Tap to focus** — tap any card to bring it front and center with a dimmed background for easy scanning at the register.
-- **Automatic brightness boost** while a card is open, so barcode/QR scanners can read it more reliably (on by default, can be turned off in Settings).
-- **Swipe actions** — swipe a card left to delete or right to link it to an app, each independently toggleable in Settings. When a direction is disabled, that swipe gesture is fully disabled too — no accidental drags.
-- **Link an app to a card** — attach any installed app to a card (e.g. a store's own app) and jump straight into it from your wallet.
+### Card Management
 
-### Look & feel
-- **Light / Dark / System** theme, plus a true-black **AMOLED** mode for extra battery savings.
-- Smooth, physics-based animations throughout — card focus, reordering, swipe gestures, and sheet transitions all feel native rather than abrupt.
+- **Easy card addition** — scan a barcode or QR code using your camera, or import an image directly from your gallery.
+- **Wide format support** — EAN-13, EAN-8, CODE128, CODE39, UPC-A, UPC-E, PDF417, Aztec, and QR codes.
+- **Custom appearance** — personalize every card with your own color.
+- **Favorites** — keep your most frequently used cards within easy reach.
+- **Instant search** — quickly find any card by name.
+- **Drag & drop reordering** — organize your wallet exactly the way you want.
 
----
+### Everyday Experience
+
+- **Tap to focus** — bring any card to the foreground with a dimmed background, ready for scanning.
+- **Automatic brightness boost** — increases screen brightness while a card is open, helping barcode and QR scanners read more reliably. Enabled by default and configurable in Settings.
+- **Swipe actions** — swipe left to delete a card or right to open its linked app. Both actions can be independently enabled or disabled in Settings.
+- **App linking** — connect an installed app to any card and open it directly from your wallet.
+
+### Personalization
+
+- **Light, Dark and System themes** — choose the appearance that suits you.
+- **AMOLED mode** — a true-black theme designed for AMOLED displays and reduced power consumption.
+- **Smooth animations** — natural, physics-based transitions throughout the app, including card focusing, reordering and swipe interactions.
 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="200" style="border-radius: 12px; margin: 0 10px;" alt="Stacked card wallet view" />
-  <img src="screenshots/expanded.jpg" width="200" style="border-radius: 12px; margin: 0 10px;" alt="Expanded view with all barcodes visible" />
-  <img src="screenshots/active-card.jpg" width="200" style="border-radius: 12px; margin: 0 10px;" alt="A focused, active card ready to scan" />
+  <img src="screenshots/home.jpg" width="200" alt="Stacked card wallet view" />
+  <img src="screenshots/expanded.jpg" width="200" alt="Expanded view with all barcodes visible" />
+  <img src="screenshots/active-card.jpg" width="200" alt="A focused, active card ready to scan" />
 </p>
 
----
+## Security & Privacy
 
-### Security & data
-- **Biometric lock** (Face ID / fingerprint) on app launch.
-- **Backup & restore** — download a backup file, share it, or import one to restore your cards and settings on another device.
-- All data is stored locally on your device — nothing is uploaded anywhere.
+Your cards belong to you. QuickWallet is designed to keep your information private and under your control.
 
-### Convenience
-- **Update checks** — QuickWallet can automatically check for new releases on launch (toggleable), or you can check manually from Settings.
-- **Multi-language** — available in **Hungarian** and **English**.
+- **Biometric protection** — secure app access using Face ID or fingerprint authentication.
+- **Backup & restore** — export your cards and settings into a backup file, share it, or restore everything on another device.
+- **Local storage** — all your data stays on your device. Nothing is uploaded to external servers.
 
----
+## Additional Features
+
+- **Automatic update checks** — check for new releases automatically when launching the app, or manually from Settings.
+- **Multi-language support** — available in English and Hungarian.
 
 ## Download
 
-QuickWallet is distributed as an APK via **[GitHub Releases](https://github.com)** — this repository does not include the source code, only the compiled app.
+QuickWallet is distributed as an APK through Orion Store and GitHub Releases.
 
 <p align="center">
   <a href="https://rookieenough.github.io/Orion-Data/app/?id=quickwallet">
-    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="55" alt="Get it on Orion Store" />
+    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="50" alt="Get it on Orion Store" />
   </a>
 </p>
 
-### About the Google Play Protect warning
+### About the Google Play Protect Warning
 
-Because the app isn't published on the Play Store, **Google Play Protect may show a warning** (e.g. *"Unsafe app blocked"* or *"App wasn't scanned for harmful behavior"*) when you try to install it. This is expected and not a sign that anything is wrong — it simply means the app hasn't gone through Google's Play Store review process, which only applies to apps installed from outside the Store.
+Because QuickWallet is not published on the Google Play Store, Google Play Protect may display a warning when installing the APK, such as "Unsafe app blocked" or "App wasn't scanned for harmful behavior".
 
----
+This warning may appear because the application is distributed outside the Google Play Store and has not gone through Google's Play Store review process. It does not, by itself, indicate that the application is harmful.
 
 ## Tech Stack
 
-- [Expo](https://expo.dev) / React Native
-- `expo-camera` — barcode/QR scanning
-- `expo-local-authentication` — biometric app lock
-- `expo-brightness` — automatic brightness boost
-- `expo-document-picker`, `expo-application`, `expo-system-ui`
-- `react-native-barcode-svg` — barcode rendering
-- `@react-native-async-storage/async-storage` — local persistence
-- `lucide-react-native` — icons
+| Technology | Purpose |
+|---|---|
+| Expo / React Native | Application framework |
+| `expo-camera` | Barcode and QR scanning |
+| `expo-local-authentication` | Biometric authentication |
+| `expo-brightness` | Automatic screen brightness |
+| `expo-document-picker` | File selection |
+| `expo-application` | Application information |
+| `expo-system-ui` | System interface integration |
+| `react-native-barcode-svg` | Barcode rendering |
+| `@react-native-async-storage/async-storage` | Local data persistence |
+| `lucide-react-native` | Interface icons |
 
----
+## Contact
 
-## Contact & Links
+**Made by akosdevhu**
 
-Made by **akosdevhu**.
+- GitHub: https://github.com/akosdevhu
+- Instagram: https://www.instagram.com/akosdevhu
+- Email: akosdevhu@gmail.com
+- Website: https://quickwallet.onhercules.app/
 
-- GitHub: [github.com](https://github.com/akosdevhu)
-- Instagram: [instagram.com](https://www.instagram.com/akosdevhu)
-- Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
-- Website https://quickwallet.onhercules.app/
-
-Feedback, bug reports, and feature suggestions are always welcome — feel free to open an issue or reach out directly.
+Feedback, bug reports and feature suggestions are always welcome. Feel free to open an issue or get in touch.
