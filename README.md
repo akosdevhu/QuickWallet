@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="160" style="border-radius: 20%;" alt="QuickWallet Logo" />
-  <br><br>
-  <a href="https://github.io">
+  <img src="screenshots/logo.png" width="160" style="border-radius: 20%; vertical-align: middle;" alt="QuickWallet Logo" />
+</p>
+<p align="center">
+  <a href="https://github.io" style="display: inline-block; vertical-align: middle;">
     <img src="https://githubusercontent.com" height="55" alt="Get it on Orion Store" />
   </a>
 </p>
+
 
 <h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
 
