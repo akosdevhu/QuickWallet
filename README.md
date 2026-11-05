@@ -69,7 +69,7 @@ Your cards belong to you. QuickWallet is designed to keep your information priva
 
 QuickWallet is distributed as an APK through Orion Store and GitHub Releases.
 
-<p align="center">
+<p align="left">
   <a href="https://rookieenough.github.io/Orion-Data/app/?id=quickwallet">
     <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="50" alt="Get it on Orion Store" />
   </a>
