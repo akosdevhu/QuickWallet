@@ -1,13 +1,9 @@
 <div align="center">
-
   <img src="screenshots/logo.png" width="160" style="border-radius: 20%;" alt="QuickWallet Logo" />
-
-  <br><br>
-
+  <br>
   <a href="https://rookieenough.github.io/Orion-Data/app/?id=quickwallet">
     <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="55" alt="Get it on Orion Store" />
   </a>
-
 </div>
 
 <h1 align="center" class="notranslate" translate="no">QuickWallet</h1>
