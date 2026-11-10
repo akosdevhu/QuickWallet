@@ -1,6 +1,14 @@
- <div align="center">
+<div align="center">
   <img src="screenshots/logo.png" width="150" alt="QuickWallet Logo" />
   <br>
+  
+  <!-- Badge-ek -->
+  <p>
+    <a href="https://github.com/akosdevhu/QuickWallet/releases"><img src="https://img.shields.io/github/v/release/akosdevhu/QuickWallet?style=flat-square&color=blue" alt="GitHub release"></a>
+    <img src="https://img.shields.io/github/downloads/akosdevhu/QuickWallet/total?style=flat-square&color=success" alt="GitHub downloads">
+    <a href="https://github.com/akosdevhu/QuickWallet/blob/main/LICENSE"><img src="https://img.shields.io/github/license/akosdevhu/QuickWallet?style=flat-square" alt="License"></a>
+  </p>
+
   <a href="https://rookieenough.github.io/Orion-Data/app/?id=quickwallet">
     <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" height="50" alt="Get it on Orion Store" />
   </a>
