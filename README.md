@@ -153,4 +153,5 @@ This warning may appear because the application is distributed outside the Googl
 - Discord: https://discord.gg/dXwJrarCbr
 
 ---
+
 Feedback, bug reports and feature suggestions are always welcome. Feel free to open an issue or get in touch.
